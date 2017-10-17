@@ -1,0 +1,12 @@
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\DemoFaceLib.dll.config
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\DemoFaceLib.dll
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\DemoFaceLib.pdb
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\EntityFramework.dll
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\EntityFramework.SqlServer.dll
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\RestSharp.dll
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\EntityFramework.xml
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\EntityFramework.SqlServer.xml
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\bin\Release\RestSharp.xml
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\obj\Release\DemoFaceLib.csproj.CoreCompileInputs.cache
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\obj\Release\DemoFaceLib.dll
+c:\users\thaissas.gs\documents\visual studio 2017\Projects\DemoFaceApi\DemoFaceLib\obj\Release\DemoFaceLib.pdb
